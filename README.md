@@ -8,6 +8,13 @@
 - Built-in package **verification and metadata rules**
 - Cross-platform — no path hacks, no separator pain
 
+  ## What makes it different?
+- No external shell execution model
+- Commands are internal services
+- Package verification is mandatory, not optional
+- Single runtime controls execution, IO, and metadata
+
+
 ## Requirements
 - .NET **8.0+**
 - Visual Studio *(optional)*
